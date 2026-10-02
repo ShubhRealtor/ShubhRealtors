@@ -1,0 +1,21 @@
+/* Custom Global Styles for Shub Realtors */
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+/* Brand Palette Custom Classes from Logo */
+.text-brand-maroon {
+    color: #6b0939;
+}
+.bg-brand-maroon {
+    background-color: #6b0939;
+}
+.border-brand-maroon {
+    border-color: #6b0939;
+}
+.text-brand-gold {
+    color: #b89073;
+}
+.bg-brand-gold {
+    background-color: #b89073;
+}
